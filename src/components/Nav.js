@@ -5,7 +5,7 @@ function Nav() {
   return (
     <NavWrapper>
       <Navigation>
-        <Logo className="logo-name">Rendani</Logo>
+        <Logo className="logo-name">Renda-ni</Logo>
         <NavMenu className="nav-list">
           <NavItems>
             <a href="/">Home</a>
